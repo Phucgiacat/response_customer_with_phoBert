@@ -1,2 +1,3 @@
-# hocThongKe
-Nhóm học thống kê - phượng, quang, phúc
+# Học Thống Kê - Phúc, Quang, Phượng
+### Đề Tài: Text Classification.
+

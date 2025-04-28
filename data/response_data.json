@@ -1,0 +1,76 @@
+{
+    "POS": [
+        {
+            "text": "Sản phẩm rất đẹp",
+            "response": "WOODA cảm ơn bạn rất nhiều ạ! Nếu bạn cần thêm sản phẩm mới, cứ nhắn mình nhé 💖."
+        },
+        {
+            "text": "Xài sản phẩm thấy thích thật",
+            "response": "WOODA rất vui vì sản phẩm đã làm bạn hài lòng. Mình sẽ cập nhật thêm nhiều mẫu mới cho bạn lựa chọn nhé!"
+        },
+        {
+            "text": "Giao hàng rất nhanh",
+            "response": "WOODA cảm ơn bạn đã tin tưởng. Chúc bạn có trải nghiệm tuyệt vời với sản phẩm nha!"
+        },
+        {
+            "text": "Mình sẽ ủng hộ tiếp",
+            "response": "WOODA rất trân trọng sự ủng hộ của bạn. Mong được tiếp tục đồng hành cùng bạn!"
+        },
+        {
+            "text": "Chất lượng vượt mong đợi",
+            "response": "WOODA xin cảm ơn phản hồi tích cực của bạn! Mình sẽ nỗ lực mang đến trải nghiệm ngày càng tốt hơn."
+        }
+    ],
+    "NEG": [
+        {
+            "text": "tạm biệt",
+            "response": "tam biệt bạn! Nếu có gì cần hỗ trợ, cứ nhắn mình nhé!"
+        },
+        {
+            "text": "Tôi rất thất vọng về sản phẩm",
+            "response": "WOODA rất xin lỗi vì trải nghiệm không như kỳ vọng. Mình có thể kiểm tra đơn hàng để hỗ trợ bạn ngay không ạ?"
+        },
+        {
+            "text": "Hàng bị lỗi khi nhận",
+            "response": "WOODA xin lỗi bạn rất nhiều. Bạn vui lòng gửi hình ảnh sản phẩm giúp mình để hỗ trợ đổi mới nhé."
+        },
+        {
+            "text": "Chất lượng sản phẩm không tốt",
+            "response": "WOODA xin ghi nhận phản hồi của bạn. Mình mong có thêm chi tiết để khắc phục và phục vụ bạn tốt hơn."
+        },
+        {
+            "text": "Giao hàng trễ",
+            "response": "WOODA xin lỗi bạn vì sự chậm trễ. Mình sẽ kiểm tra lại đơn hàng và có hướng xử lý nhanh nhất."
+        },
+        {
+            "text": "Dịch vụ chăm sóc khách hàng không tốt",
+            "response": "WOODA thành thật xin lỗi nếu đã gây ra bất tiện. Mình rất mong được bạn cho cơ hội khắc phục và cải thiện."
+        }
+    ],
+    "NEU": [
+        {
+            "text": "Xin chào bạn !",
+            "response": "Xin chào bạn! chúng tôi có thể giúp gì cho bạn không?"
+        },
+        {
+            "text": "Cho mình hỏi thời gian giao hàng",
+            "response": "WOODA xin phép thông tin: giao hàng tiêu chuẩn từ 2-4 ngày, tùy khu vực ạ."
+        },
+        {
+            "text": "Sản phẩm có bảo hành không",
+            "response": "WOODA xin thông tin: sản phẩm được bảo hành 1 đổi 1 trong 7 ngày nếu lỗi từ nhà sản xuất."
+        },
+        {
+            "text": "Chính sách đổi trả thế nào",
+            "response": "WOODA hỗ trợ đổi trả miễn phí trong 7 ngày nếu sản phẩm lỗi hoặc không đúng mô tả bạn nhé."
+        },
+        {
+            "text": "Có thể thanh toán khi nhận hàng không",
+            "response": "Dạ có ạ! WOODA hỗ trợ thanh toán COD khi nhận hàng trên toàn quốc."
+        },
+        {
+            "text": "Mình muốn đặt hàng thì làm sao",
+            "response": "Bạn chỉ cần nhắn mình sản phẩm cần mua, WOODA sẽ hướng dẫn bạn xác nhận đơn hàng nhanh chóng nhé."
+        }
+    ]
+}

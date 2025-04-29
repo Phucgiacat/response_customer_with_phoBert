@@ -1,76 +1,1144 @@
 {
     "POS": [
         {
-            "text": "Sản phẩm rất đẹp",
-            "response": "WOODA cảm ơn bạn rất nhiều ạ! Nếu bạn cần thêm sản phẩm mới, cứ nhắn mình nhé 💖."
+            "text": "Sản phẩm hỗ trợ tập luyện rất tốt",
+            "response": "WOODA cảm ơn bạn đã khen! Mình rất vui khi sản phẩm giúp bạn duy trì sức khỏe. Tiếp tục tập luyện nhé! 💪"
         },
         {
-            "text": "Xài sản phẩm thấy thích thật",
-            "response": "WOODA rất vui vì sản phẩm đã làm bạn hài lòng. Mình sẽ cập nhật thêm nhiều mẫu mới cho bạn lựa chọn nhé!"
+            "text": "Dụng cụ bếp tiện lợi quá",
+            "response": "Cảm ơn bạn đã yêu thích! WOODA hy vọng sản phẩm sẽ giúp bạn nấu ăn dễ dàng và vui hơn!"
         },
         {
-            "text": "Giao hàng rất nhanh",
-            "response": "WOODA cảm ơn bạn đã tin tưởng. Chúc bạn có trải nghiệm tuyệt vời với sản phẩm nha!"
+            "text": "Sản phẩm chăm sóc da hiệu quả",
+            "response": "WOODA vui lắm khi làn da bạn được yêu thương! Cần thêm gợi ý chăm sóc, cứ nhắn mình nha!"
         },
         {
-            "text": "Mình sẽ ủng hộ tiếp",
-            "response": "WOODA rất trân trọng sự ủng hộ của bạn. Mong được tiếp tục đồng hành cùng bạn!"
+            "text": "Đồ chơi giáo dục rất thú vị",
+            "response": "Cảm ơn bạn đã chọn WOODA cho bé! Mình rất vui khi bé vừa học vừa chơi thật vui!"
         },
         {
-            "text": "Chất lượng vượt mong đợi",
-            "response": "WOODA xin cảm ơn phản hồi tích cực của bạn! Mình sẽ nỗ lực mang đến trải nghiệm ngày càng tốt hơn."
+            "text": "Phụ kiện du lịch nhỏ gọn, tiện dụng",
+            "response": "WOODA hạnh phúc khi đồng hành cùng chuyến đi của bạn! Chúc bạn có những hành trình tuyệt vời!"
+        },
+        {
+            "text": "Sản phẩm công nghệ dễ sử dụng",
+            "response": "Cảm ơn bạn đã khen! WOODA luôn chọn công nghệ thân thiện để bạn dùng thoải mái nhất!"
+        },
+        {
+            "text": "Thời trang rất hợp mốt",
+            "response": "WOODA cảm ơn bạn đã yêu thích! Mình sẽ tiếp tục cập nhật những mẫu hot trend cho bạn nha!"
+        },
+        {
+            "text": "Sản phẩm tiết kiệm năng lượng",
+            "response": "Cảm ơn bạn đã ủng hộ lối sống xanh! WOODA rất vui khi góp phần bảo vệ môi trường cùng bạn!"
+        },
+        {
+            "text": "Dụng cụ học tập rất sáng tạo",
+            "response": "WOODA hạnh phúc khi hỗ trợ việc học của bạn! Cần thêm sản phẩm mới, cứ nhắn mình nhé!"
+        },
+        {
+            "text": "Sản phẩm làm đẹp an toàn",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình luôn chọn nguyên liệu an toàn để bạn tự tin tỏa sáng!"
+        },
+        {
+            "text": "Đồ dùng văn phòng tiện ích",
+            "response": "WOODA vui khi giúp công việc của bạn thuận lợi hơn! Cần thêm dụng cụ mới, cứ gọi mình nha!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ giấc ngủ tốt",
+            "response": "Cảm ơn bạn đã khen! WOODA hy vọng bạn luôn có những giấc ngủ ngon và tràn đầy năng lượng!"
+        },
+        {
+            "text": "Phụ kiện thể thao bền bỉ",
+            "response": "WOODA cảm ơn bạn đã yêu thích! Mình sẽ tiếp tục mang đến sản phẩm chất lượng để bạn chinh phục mọi thử thách!"
+        },
+        {
+            "text": "Sản phẩm cho thú cưng đáng yêu",
+            "response": "Cảm ơn bạn đã chọn WOODA cho boss! Mình rất vui khi các bé cưng được yêu thương!"
+        },
+        {
+            "text": "Đồ dùng cắm trại siêu tiện",
+            "response": "WOODA hạnh phúc khi đồng hành cùng bạn trong những chuyến đi! Chúc bạn có trải nghiệm ngoài trời tuyệt vời!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc tóc hiệu quả",
+            "response": "Cảm ơn bạn đã yêu thích! WOODA rất vui khi giúp mái tóc bạn luôn bóng mượt và khỏe mạnh!"
+        },
+        {
+            "text": "Dụng cụ làm vườn nhỏ gọn",
+            "response": "WOODA cảm ơn bạn đã khen! Mình hy vọng sản phẩm giúp bạn chăm sóc khu vườn thật dễ dàng!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ yoga rất tốt",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Chúc bạn luôn thư giãn và khỏe mạnh với những buổi yoga!"
+        },
+        {
+            "text": "Phụ kiện thời trang rất phong cách",
+            "response": "WOODA vui khi bạn yêu thích phong cách của mình! Cần thêm ý tưởng mix & match, cứ nhắn nhé!"
+        },
+        {
+            "text": "Sản phẩm tái chế rất ý nghĩa",
+            "response": "Cảm ơn bạn đã ủng hộ sản phẩm xanh của WOODA! Cùng nhau bảo vệ hành tinh nhé!"
+        },
+        {
+            "text": "Dụng cụ nấu ăn an toàn",
+            "response": "WOODA cảm ơn bạn đã tin tưởng! Mình luôn chọn chất liệu an toàn để bạn yên tâm nấu nướng!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học ngoại ngữ thú vị",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bạn chinh phục ngôn ngữ mới một cách dễ dàng!"
+        },
+        {
+            "text": "Phụ kiện chụp ảnh rất chuyên nghiệp",
+            "response": "WOODA hạnh phúc khi giúp bạn lưu giữ khoảnh khắc đẹp! Cần thêm phụ kiện, cứ nhắn mình nha!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc sức khỏe tiện lợi",
+            "response": "Cảm ơn bạn đã yêu thích! WOODA luôn muốn mang đến giải pháp tốt nhất cho sức khỏe của bạn!"
+        },
+        {
+            "text": "Đồ dùng tổ chức nhà cửa gọn gàng",
+            "response": "WOODA vui khi giúp không gian của bạn ngăn nắp hơn! Cần thêm ý tưởng, cứ hỏi mình nhé!"
+        },
+        {
+            "text": "Sản phẩm cho mẹ và bé rất an toàn",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình rất vui khi được đồng hành cùng mẹ và bé!"
+        },
+        {
+            "text": "Phụ kiện công nghệ thời thượng",
+            "response": "WOODA cảm ơn bạn đã khen! Mình sẽ tiếp tục mang đến những sản phẩm công nghệ siêu cool!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ tập gym chất lượng",
+            "response": "Cảm ơn bạn đã yêu thích! WOODA hy vọng sản phẩm giúp bạn đạt mục tiêu tập luyện nhanh chóng!"
+        },
+        {
+            "text": "Dụng cụ làm bánh rất dễ dùng",
+            "response": "WOODA vui khi bạn thích thú với việc làm bánh! Cần thêm công cụ, cứ nhắn mình nha!"
+        },
+        {
+            "text": "Sản phẩm trang trí tiệc rất ấn tượng",
+            "response": "Cảm ơn bạn đã chọn WOODA cho bữa tiệc! Mình rất vui khi giúp bạn tạo không gian thật đẹp!"
+        },
+        {
+            "text": "Phụ kiện làm việc từ xa tiện ích",
+            "response": "WOODA hạnh phúc khi hỗ trợ công việc của bạn! Cần thêm giải pháp, cứ gọi mình nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ giảm stress hiệu quả",
+            "response": "Cảm ơn bạn đã khen! WOODA hy vọng sản phẩm giúp bạn luôn thư giãn và vui vẻ!"
+        },
+        {
+            "text": "Đồ dùng dã ngoại bền bỉ",
+            "response": "WOODA cảm ơn bạn đã tin tưởng! Chúc bạn có những chuyến dã ngoại đầy niềm vui!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc răng miệng tốt",
+            "response": "Cảm ơn bạn đã yêu thích! WOODA rất vui khi giúp bạn tự tin với nụ cười rạng rỡ!"
+        },
+        {
+            "text": "Phụ kiện thời trang trẻ em dễ thương",
+            "response": "WOODA hạnh phúc khi các bé yêu thích! Cảm ơn bạn đã chọn mình cho bé cưng!"
+        },
+        {
+            "text": "Sản phẩm tiết kiệm nước rất hữu ích",
+            "response": "Cảm ơn bạn đã ủng hộ lối sống bền vững! WOODA rất vui khi cùng bạn bảo vệ tài nguyên!"
+        },
+        {
+            "text": "Dụng cụ vẽ tranh rất chuyên nghiệp",
+            "response": "WOODA cảm ơn bạn đã khen! Mình hy vọng sản phẩm sẽ khơi dậy sáng tạo trong bạn!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ chạy bộ thoải mái",
+            "response": "Cảm ơn bạn đã yêu thích! WOODA chúc bạn luôn tràn đầy năng lượng khi chạy bộ!"
+        },
+        {
+            "text": "Phụ kiện trang trí nhà rất tinh tế",
+            "response": "WOODA vui khi giúp không gian của bạn đẹp hơn! Cần thêm ý tưởng decor, cứ nhắn mình!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc móng đẹp",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình rất vui khi giúp đôi tay bạn thêm xinh!"
+        },
+        {
+            "text": "Dụng cụ tập luyện tại nhà tiện lợi",
+            "response": "WOODA hạnh phúc khi hỗ trợ bạn tập luyện! Cần thêm dụng cụ, cứ gọi mình nha!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học nhạc thú vị",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bạn khám phá thế giới âm nhạc!"
+        },
+        {
+            "text": "Phụ kiện đi biển rất tiện",
+            "response": "WOODA cảm ơn bạn đã chọn mình cho chuyến đi biển! Chúc bạn có kỳ nghỉ thật vui!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc cơ thể tự nhiên",
+            "response": "Cảm ơn bạn đã yêu thích! WOODA luôn chọn thành phần tự nhiên để bạn yên tâm sử dụng!"
+        },
+        {
+            "text": "Dụng cụ làm đồ thủ công sáng tạo",
+            "response": "WOODA vui khi bạn thích thú với sản phẩm! Cần thêm ý tưởng sáng tạo, cứ nhắn mình!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ thiền định rất tốt",
+            "response": "Cảm ơn bạn đã khen! WOODA hy vọng sản phẩm giúp bạn tìm thấy sự bình an!"
+        },
+        {
+            "text": "Phụ kiện xe đạp bền bỉ",
+            "response": "WOODA cảm ơn bạn đã tin tưởng! Chúc bạn có những chuyến đạp xe thật thú vị!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ ăn uống lành mạnh",
+            "response": "Cảm ơn bạn đã yêu thích! WOODA rất vui khi giúp bạn duy trì lối sống khỏe mạnh!"
+        },
+        {
+            "text": "Dụng cụ làm đẹp tại nhà tiện lợi",
+            "response": "WOODA hạnh phúc khi giúp bạn tỏa sáng! Cần thêm sản phẩm, cứ nhắn mình nha!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học STEM rất hay",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bé khám phá khoa học một cách thú vị!"
+        },
+        {
+            "text": "Phụ kiện đi phượt rất bền",
+            "response": "WOODA cảm ơn bạn đã chọn mình! Chúc bạn có những chuyến phượt đầy trải nghiệm!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc mắt hiệu quả",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình rất vui khi giúp bạn bảo vệ đôi mắt sáng khỏe!"
+        },
+        {
+            "text": "Dụng cụ tập thể dục cho người lớn tuổi",
+            "response": "WOODA hạnh phúc khi hỗ trợ sức khỏe! Cảm ơn bạn đã chọn mình cho người thân!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học kỹ năng mềm",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bạn phát triển kỹ năng một cách thú vị!"
+        },
+        {
+            "text": "Phụ kiện công nghệ không dây tiện lợi",
+            "response": "WOODA cảm ơn bạn đã yêu thích! Mình sẽ tiếp tục mang đến sản phẩm công nghệ hiện đại!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ chăm sóc cây cảnh",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bạn chăm sóc cây cối thật xanh tốt!"
+        },
+        {
+            "text": "Dụng cụ làm đồ uống tại nhà dễ dùng",
+            "response": "WOODA hạnh phúc khi bạn thích thú với sản phẩm! Cần thêm công thức pha chế, cứ hỏi mình!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ giảm cân an toàn",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình rất vui khi đồng hành cùng hành trình của bạn!"
+        },
+        {
+            "text": "Phụ kiện thời trang công sở thanh lịch",
+            "response": "WOODA cảm ơn bạn đã yêu thích! Mình sẽ tiếp tục mang đến phong cách chuyên nghiệp cho bạn!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học tập nhóm",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp việc học nhóm của bạn hiệu quả hơn!"
+        },
+        {
+            "text": "Dụng cụ làm sạch nhà cửa nhanh gọn",
+            "response": "WOODA hạnh phúc khi giúp nhà bạn sạch sẽ! Cần thêm sản phẩm, cứ nhắn mình nha!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ chăm sóc người bệnh",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình rất vui khi giúp bạn chăm sóc người thân yêu!"
+        },
+        {
+            "text": "Phụ kiện đi bộ đường dài bền bỉ",
+            "response": "WOODA cảm ơn bạn đã chọn mình! Chúc bạn có những chuyến đi bộ thật đáng nhớ!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ phát triển tư duy",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bé phát triển tư duy một cách thú vị!"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn vặt lành mạnh",
+            "response": "WOODA hạnh phúc khi bạn yêu thích! Cần thêm công thức ăn vặt, cứ nhắn mình nha!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ chăm sóc da nhạy cảm",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình rất vui khi giúp làn da bạn được yêu thương!"
+        },
+        {
+            "text": "Phụ kiện thời trang dạo phố năng động",
+            "response": "WOODA cảm ơn bạn đã yêu thích! Mình sẽ tiếp tục mang đến phong cách trẻ trung cho bạn!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học trực tuyến",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp việc học online của bạn thuận lợi hơn!"
+        },
+        {
+            "text": "Dụng cụ tập luyện cơ bắp tại nhà",
+            "response": "WOODA hạnh phúc khi hỗ trợ bạn tập luyện! Cần thêm dụng cụ, cứ gọi mình nha!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ làm việc nhóm từ xa",
+            "response": "Cảm ơn bạn đã yêu thích! WOODA rất vui khi giúp công việc của bạn hiệu quả hơn!"
+        },
+        {
+            "text": "Phụ kiện đi mưa rất tiện lợi",
+            "response": "WOODA cảm ơn bạn đã chọn mình! Chúc bạn luôn khô ráo và vui vẻ trong những ngày mưa!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ chăm sóc môi",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình rất vui khi giúp đôi môi bạn luôn mềm mượt!"
+        },
+        {
+            "text": "Dụng cụ làm đồ chơi handmade",
+            "response": "WOODA hạnh phúc khi bạn thích thú với sản phẩm! Cần thêm ý tưởng sáng tạo, cứ hỏi mình!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ tập trung làm việc",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bạn làm việc hiệu quả hơn!"
+        },
+        {
+            "text": "Phụ kiện thời trang mùa đông ấm áp",
+            "response": "WOODA cảm ơn bạn đã yêu thích! Mình sẽ tiếp tục mang đến phong cách ấm áp cho bạn!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học kỹ năng sống",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bạn phát triển kỹ năng một cách thú vị!"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn sáng nhanh gọn",
+            "response": "WOODA hạnh phúc khi giúp bữa sáng của bạn tiện lợi hơn! Cần thêm công thức, cứ nhắn mình!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ chăm sóc da dầu",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình rất vui khi giúp làn da bạn luôn tươi tắn!"
+        },
+        {
+            "text": "Phụ kiện thời trang đi tiệc sang trọng",
+            "response": "WOODA cảm ơn bạn đã yêu thích! Mình sẽ tiếp tục mang đến phong cách lộng lẫy cho bạn!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học lập trình",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bạn khám phá thế giới code thật thú vị!"
+        },
+        {
+            "text": "Dụng cụ làm đồ uống detox",
+            "response": "WOODA hạnh phúc khi bạn yêu thích! Cần thêm công thức detox, cứ nhắn mình nha!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ chăm sóc da khô",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình rất vui khi giúp làn da bạn luôn mịn màng!"
+        },
+        {
+            "text": "Phụ kiện thời trang mùa hè mát mẻ",
+            "response": "WOODA cảm ơn bạn đã yêu thích! Mình sẽ tiếp tục mang đến phong cách tươi mới cho bạn!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học vẽ kỹ thuật số",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bạn sáng tạo trong thế giới số!"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn chay tiện lợi",
+            "response": "WOODA hạnh phúc khi bạn yêu thích! Cần thêm công thức chay, cứ nhắn mình nha!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ chăm sóc da lão hóa",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình rất vui khi giúp làn da bạn luôn trẻ trung!"
+        },
+        {
+            "text": "Phụ kiện thời trang thể thao năng động",
+            "response": "WOODA cảm ơn bạn đã yêu thích! Mình sẽ tiếp tục mang đến phong cách năng lượng cho bạn!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học ngoại ngữ trẻ em",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bé học ngoại ngữ một cách vui vẻ!"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn nhẹ cho bé",
+            "response": "WOODA hạnh phúc khi bạn yêu thích! Cần thêm công thức cho bé, cứ nhắn mình nha!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ chăm sóc da mụn",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình rất vui khi giúp làn da bạn luôn khỏe mạnh!"
+        },
+        {
+            "text": "Phụ kiện thời trang vintage độc đáo",
+            "response": "WOODA cảm ơn bạn đã yêu thích! Mình sẽ tiếp tục mang đến phong cách cổ điển cho bạn!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học toán tư duy",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bé học toán một cách thú vị!"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn truyền thống",
+            "response": "WOODA hạnh phúc khi bạn yêu thích! Cần thêm công thức truyền thống, cứ nhắn mình nha!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ chăm sóc da tự nhiên",
+            "response": "Cảm ơn bạn đã tin tưởng WOODA! Mình rất vui khi giúp làn da bạn luôn rạng rỡ!"
+        },
+        {
+            "text": "Phụ kiện thời trang tối giản tinh tế",
+            "response": "WOODA cảm ơn bạn đã yêu thích! Mình sẽ tiếp tục mang đến phong cách thanh lịch cho bạn!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học khoa học trẻ em",
+            "response": "Cảm ơn bạn đã khen! WOODA rất vui khi giúp bé khám phá khoa học thật thú vị!"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn nhanh lành mạnh",
+            "response": "WOODA hạnh phúc khi bạn yêu thích! Cần thêm công thức nhanh gọn, cứ nhắn mình nha!"
         }
     ],
     "NEG": [
         {
-            "text": "tạm biệt",
-            "response": "tam biệt bạn! Nếu có gì cần hỗ trợ, cứ nhắn mình nhé!"
+            "text": "Sản phẩm giải trí không hấp dẫn",
+            "response": "WOODA xin lỗi vì trải nghiệm chưa thú vị! Bạn có thể chia sẻ thêm mong muốn để mình gợi ý mẫu giải trí phù hợp hơn không?"
         },
         {
-            "text": "Tôi rất thất vọng về sản phẩm",
-            "response": "WOODA rất xin lỗi vì trải nghiệm không như kỳ vọng. Mình có thể kiểm tra đơn hàng để hỗ trợ bạn ngay không ạ?"
+            "text": "Dụng cụ nghệ thuật khó sử dụng",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ cung cấp hướng dẫn chi tiết hơn. Bạn có muốn mình gửi video hướng dẫn sử dụng không?"
         },
         {
-            "text": "Hàng bị lỗi khi nhận",
-            "response": "WOODA xin lỗi bạn rất nhiều. Bạn vui lòng gửi hình ảnh sản phẩm giúp mình để hỗ trợ đổi mới nhé."
+            "text": "Phụ kiện làm việc từ xa hay bị lỗi",
+            "response": "WOODA rất tiếc vì sự cố này! Bạn vui lòng gửi chi tiết lỗi để mình hỗ trợ sửa chữa hoặc đổi mới ngay nhé!"
         },
         {
-            "text": "Chất lượng sản phẩm không tốt",
-            "response": "WOODA xin ghi nhận phản hồi của bạn. Mình mong có thêm chi tiết để khắc phục và phục vụ bạn tốt hơn."
+            "text": "Sản phẩm chăm sóc sức khỏe tinh thần không hiệu quả",
+            "response": "Xin lỗi bạn vì chưa đáp ứng kỳ vọng! WOODA sẽ kiểm tra và hỗ trợ đổi sản phẩm phù hợp hơn. Bạn cần tư vấn thêm không?"
         },
         {
-            "text": "Giao hàng trễ",
-            "response": "WOODA xin lỗi bạn vì sự chậm trễ. Mình sẽ kiểm tra lại đơn hàng và có hướng xử lý nhanh nhất."
+            "text": "Đồ chơi cho thú cưng không bền",
+            "response": "WOODA xin lỗi vì sự bất tiện! Bạn vui lòng gửi ảnh để mình hỗ trợ đổi sản phẩm bền hơn cho boss nhé!"
         },
         {
-            "text": "Dịch vụ chăm sóc khách hàng không tốt",
-            "response": "WOODA thành thật xin lỗi nếu đã gây ra bất tiện. Mình rất mong được bạn cho cơ hội khắc phục và cải thiện."
+            "text": "Sản phẩm cho trẻ sơ sinh không an toàn",
+            "response": "WOODA rất tiếc và sẽ kiểm tra ngay! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm an toàn hơn cho bé!"
+        },
+        {
+            "text": "Đồ trang trí sự kiện không như hình",
+            "response": "Xin lỗi bạn vì sự khác biệt! Bạn có thể gửi ảnh để WOODA kiểm tra và hỗ trợ đổi đúng mẫu bạn mong muốn không?"
+        },
+        {
+            "text": "Sản phẩm giáo dục trực tuyến khó truy cập",
+            "response": "WOODA xin lỗi vì sự bất tiện! Bạn vui lòng gửi chi tiết lỗi để mình hỗ trợ khắc phục hoặc hướng dẫn truy cập nhé!"
+        },
+        {
+            "text": "Phụ kiện hoạt động ngoài trời không chắc chắn",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ kiểm tra chất lượng và hỗ trợ đổi sản phẩm bền hơn. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Sản phẩm công nghệ cao cài đặt phức tạp",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ gửi hướng dẫn chi tiết hơn. Bạn có muốn mình hỗ trợ cài đặt qua video không?"
+        },
+        {
+            "text": "Sản phẩm cho buổi tiệc không đủ số lượng",
+            "response": "WOODA xin lỗi vì sơ suất! Bạn vui lòng nhắn mình số lượng thiếu để mình gửi bổ sung ngay nhé!"
+        },
+        {
+            "text": "Dụng cụ chăm sóc cây cảnh không hiệu quả",
+            "response": "Cảm ơn bạn đã góp ý! WOODA sẽ kiểm tra và hỗ trợ đổi sản phẩm phù hợp hơn. Bạn cần tư vấn chăm cây không?"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ thiền định gây khó chịu",
+            "response": "WOODA rất tiếc vì trải nghiệm này! Bạn vui lòng chia sẻ chi tiết để mình hỗ trợ đổi sản phẩm thoải mái hơn!"
+        },
+        {
+            "text": "Phụ kiện cho thú cưng không vừa",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ hỗ trợ đổi kích cỡ phù hợp. Bạn vui lòng gửi thông tin kích thước nhé!"
+        },
+        {
+            "text": "Sản phẩm cho mẹ bầu không thoải mái",
+            "response": "WOODA xin lỗi vì chưa đáp ứng mong đợi! Bạn có muốn mình hỗ trợ đổi mẫu thoải mái hơn cho mẹ bầu không?"
+        },
+        {
+            "text": "Đồ dùng cắm trại dễ hỏng",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ kiểm tra chất lượng và hỗ trợ đổi sản phẩm bền hơn cho chuyến đi của bạn!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học nhạc không đúng âm thanh",
+            "response": "WOODA rất tiếc vì sự cố này! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm đúng chuẩn nhé!"
+        },
+        {
+            "text": "Phụ kiện chụp ảnh không tương thích",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ kiểm tra và hỗ trợ đổi phụ kiện phù hợp. Bạn vui lòng gửi thông tin thiết bị nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ tập yoga không chắc chắn",
+            "response": "WOODA xin lỗi vì trải nghiệm này! Bạn vui lòng gửi ảnh để mình hỗ trợ đổi sản phẩm an toàn hơn nhé!"
+        },
+        {
+            "text": "Dụng cụ làm đồ thủ công không sắc nét",
+            "response": "Cảm ơn bạn đã góp ý! WOODA sẽ kiểm tra và hỗ trợ đổi dụng cụ chất lượng hơn. Bạn cần hướng dẫn sử dụng không?"
+        },
+        {
+            "text": "Sản phẩm cho sự kiện ngoài trời không chịu nước",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ hỗ trợ đổi sản phẩm chống nước tốt hơn. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học STEM không rõ hướng dẫn",
+            "response": "WOODA rất tiếc vì sự bất tiện! Bạn có muốn mình gửi hướng dẫn chi tiết hoặc video hướng dẫn để hỗ trợ không?"
+        },
+        {
+            "text": "Phụ kiện đi phượt không tiện lợi",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ cải thiện thiết kế và hỗ trợ đổi mẫu tiện hơn. Bạn có cần gợi ý sản phẩm không?"
+        },
+        {
+            "text": "Sản phẩm chăm sóc sức khỏe không đúng công dụng",
+            "response": "Xin lỗi bạn vì chưa đáp ứng mong đợi! WOODA sẽ kiểm tra và hỗ trợ đổi sản phẩm đúng công dụng. Bạn cần tư vấn thêm không?"
+        },
+        {
+            "text": "Dụng cụ làm đồ uống không kín",
+            "response": "WOODA xin lỗi vì sự cố này! Bạn vui lòng gửi ảnh để mình hỗ trợ đổi sản phẩm kín hơn ngay nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ trẻ sơ sinh khó vệ sinh",
+            "response": "Cảm ơn bạn đã góp ý! WOODA sẽ cải thiện thiết kế và hỗ trợ đổi mẫu dễ vệ sinh hơn. Bạn cần hướng dẫn không?"
+        },
+        {
+            "text": "Phụ kiện công nghệ không kết nối ổn định",
+            "response": "WOODA rất tiếc vì sự bất tiện! Bạn vui lòng gửi chi tiết lỗi để mình hỗ trợ khắc phục hoặc đổi mới nhé!"
+        },
+        {
+            "text": "Sản phẩm cho người cao tuổi không dễ dùng",
+            "response": "Xin lỗi bạn vì trải nghiệm này! WOODA sẽ hỗ trợ đổi mẫu thân thiện hơn. Bạn có muốn mình gợi ý sản phẩm không?"
+        },
+        {
+            "text": "Dụng cụ làm bánh không đúng kích thước",
+            "response": "WOODA xin lỗi vì sự nhầm lẫn! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi đúng kích thước ngay nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học trực tuyến hay bị lag",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ kiểm tra và hỗ trợ khắc phục lỗi. Bạn có cần hướng dẫn tối ưu hóa không?"
+        },
+        {
+            "text": "Phụ kiện đi biển không bền với nước mặn",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ hỗ trợ đổi sản phẩm chịu nước tốt hơn. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc thú cưng có mùi khó chịu",
+            "response": "WOODA rất tiếc vì sự cố này! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm không mùi ngay nhé!"
+        },
+        {
+            "text": "Dụng cụ tập luyện tại nhà không chắc chắn",
+            "response": "Xin lỗi bạn vì trải nghiệm này! WOODA sẽ hỗ trợ đổi sản phẩm an toàn hơn. Bạn vui lòng gửi ảnh để xử lý nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ giảm stress không hiệu quả",
+            "response": "Cảm ơn bạn đã chia sẻ! WOODA sẽ kiểm tra và hỗ trợ đổi sản phẩm phù hợp hơn. Bạn cần tư vấn thêm không?"
+        },
+        {
+            "text": "Phụ kiện xe đạp dễ gãy",
+            "response": "WOODA xin lỗi vì sự bất tiện! Bạn vui lòng gửi ảnh để mình hỗ trợ đổi sản phẩm bền hơn ngay nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ ăn uống lành mạnh khó sử dụng",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ gửi hướng dẫn chi tiết hơn. Bạn có muốn mình hỗ trợ qua video không?"
+        },
+        {
+            "text": "Dụng cụ làm đẹp tại nhà không đúng công suất",
+            "response": "WOODA rất tiếc vì sự cố này! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm đúng chuẩn nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học vẽ kỹ thuật số không tương thích",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ kiểm tra và hỗ trợ đổi sản phẩm phù hợp. Bạn vui lòng gửi thông tin thiết bị nhé!"
+        },
+        {
+            "text": "Phụ kiện thời trang công sở không bền",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ hỗ trợ đổi sản phẩm chất lượng hơn. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ chăm sóc mắt không thoải mái",
+            "response": "WOODA rất tiếc vì trải nghiệm này! Bạn có muốn mình hỗ trợ đổi mẫu thoải mái hơn không? Xin lỗi bạn!"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn vặt không an toàn",
+            "response": "WOODA xin lỗi và sẽ kiểm tra ngay! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm an toàn hơn nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học kỹ năng mềm không rõ nội dung",
+            "response": "Cảm ơn bạn đã góp ý! WOODA sẽ cải thiện nội dung và gửi hướng dẫn chi tiết. Bạn cần hỗ trợ thêm không?"
+        },
+        {
+            "text": "Phụ kiện đi bộ đường dài không thoải mái",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ hỗ trợ đổi mẫu thoải mái hơn. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ phát triển tư duy không phù hợp độ tuổi",
+            "response": "WOODA rất tiếc vì sự bất tiện! Bạn có muốn mình hỗ trợ đổi mẫu phù hợp với độ tuổi của bé không?"
+        },
+        {
+            "text": "Dụng cụ làm đồ uống detox không bền",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ hỗ trợ đổi sản phẩm chất lượng hơn. Bạn vui lòng gửi ảnh để xử lý nhé!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc da nhạy cảm gây kích ứng",
+            "response": "WOODA xin lỗi vì sự cố này! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm an toàn hơn ngay nhé!"
+        },
+        {
+            "text": "Phụ kiện thời trang dạo phố không đúng kích cỡ",
+            "response": "Xin lỗi bạn vì sự nhầm lẫn! WOODA sẽ hỗ trợ đổi đúng kích cỡ. Bạn vui lòng xác nhận kích cỡ mong muốn nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học lập trình không rõ ràng",
+            "response": "Cảm ơn bạn đã góp ý! WOODA sẽ cải thiện nội dung và gửi hướng dẫn chi tiết hơn. Bạn cần hỗ trợ thêm không?"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn chay không tiện lợi",
+            "response": "WOODA xin lỗi vì sự bất tiện! Bạn có muốn mình hỗ trợ đổi mẫu tiện lợi hơn cho món chay không?"
+        },
+        {
+            "text": "Sản phẩm chăm sóc da khô không hiệu quả",
+            "response": "Xin lỗi bạn vì chưa đáp ứng mong đợi! WOODA sẽ hỗ trợ đổi sản phẩm phù hợp hơn. Bạn cần tư vấn thêm không?"
+        },
+        {
+            "text": "Phụ kiện thời trang mùa hè không thoáng mát",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ hỗ trợ đổi mẫu thoáng mát hơn. Bạn có muốn mình gợi ý sản phẩm không?"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học toán tư duy quá khó",
+            "response": "WOODA xin lỗi vì sự bất tiện! Bạn có muốn mình hỗ trợ đổi mẫu phù hợp hơn với trình độ của bé không?"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn truyền thống không đúng chức năng",
+            "response": "Xin lỗi bạn vì sự cố này! WOODA sẽ hỗ trợ đổi sản phẩm đúng chức năng. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc da lão hóa không thấy hiệu quả",
+            "response": "Cảm ơn bạn đã chia sẻ! WOODA sẽ kiểm tra và hỗ trợ đổi sản phẩm phù hợp hơn. Bạn cần tư vấn thêm không?"
+        },
+        {
+            "text": "Phụ kiện thời trang thể thao không bền",
+            "response": "WOODA xin lỗi vì sự bất tiện! Bạn vui lòng gửi ảnh để mình hỗ trợ đổi sản phẩm chất lượng hơn ngay nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học ngoại ngữ trẻ em không thú vị",
+            "response": "Xin lỗi bạn vì trải nghiệm này! WOODA sẽ cải thiện nội dung và hỗ trợ đổi mẫu hấp dẫn hơn cho bé!"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn nhẹ cho bé không an toàn",
+            "response": "WOODA rất tiếc và sẽ kiểm tra ngay! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm an toàn hơn!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc da mụn gây khó chịu",
+            "response": "Xin lỗi bạn vì sự cố này! WOODA sẽ hỗ trợ đổi sản phẩm phù hợp hơn. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Phụ kiện thời trang vintage không đúng phong cách",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ hỗ trợ đổi mẫu đúng phong cách vintage. Bạn có muốn mình gợi ý không?"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học khoa học trẻ em không rõ ràng",
+            "response": "WOODA xin lỗi vì sự bất tiện! Bạn có muốn mình gửi hướng dẫn chi tiết hoặc đổi mẫu dễ hiểu hơn không?"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn nhanh không tiện lợi",
+            "response": "Xin lỗi bạn vì trải nghiệm này! WOODA sẽ hỗ trợ đổi mẫu tiện lợi hơn. Bạn có cần gợi ý sản phẩm không?"
+        },
+        {
+            "text": "Sản phẩm chăm sóc da tự nhiên có mùi không dễ chịu",
+            "response": "WOODA rất tiếc vì sự bất tiện! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm không mùi nhé!"
+        },
+        {
+            "text": "Phụ kiện thời trang tối giản không bền",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ hỗ trợ đổi sản phẩm chất lượng hơn. Bạn vui lòng gửi ảnh để xử lý nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học nhóm trực tuyến không ổn định",
+            "response": "Xin lỗi bạn vì sự cố này! WOODA sẽ kiểm tra và hỗ trợ khắc phục. Bạn có cần hướng dẫn tối ưu hóa không?"
+        },
+        {
+            "text": "Dụng cụ làm đồ uống lành mạnh không kín",
+            "response": "WOODA xin lỗi vì sự bất tiện! Bạn vui lòng gửi ảnh để mình hỗ trợ đổi sản phẩm kín hơn ngay nhé!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc tóc không hiệu quả",
+            "response": "Cảm ơn bạn đã chia sẻ! WOODA sẽ kiểm tra và hỗ trợ đổi sản phẩm phù hợp hơn. Bạn cần tư vấn thêm không?"
+        },
+        {
+            "text": "Phụ kiện thời trang đi tiệc không sang trọng",
+            "response": "Xin lỗi bạn vì chưa đáp ứng mong đợi! WOODA sẽ hỗ trợ đổi mẫu sang trọng hơn. Bạn có muốn mình gợi ý không?"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học kỹ năng sống không thực tế",
+            "response": "WOODA rất tiếc vì sự bất tiện! Bạn có muốn mình cải thiện nội dung hoặc đổi mẫu thực tế hơn không?"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn sáng không đúng công suất",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ hỗ trợ đổi sản phẩm đúng công suất. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc móng không bền màu",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ hỗ trợ đổi sản phẩm bền màu hơn. Bạn vui lòng gửi ảnh để xử lý nhé!"
+        },
+        {
+            "text": "Phụ kiện công nghệ không dây hay mất kết nối",
+            "response": "WOODA rất tiếc vì sự cố này! Bạn vui lòng gửi chi tiết lỗi để mình hỗ trợ khắc phục hoặc đổi mới nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ chăm sóc cây không hiệu quả",
+            "response": "Cảm ơn bạn đã góp ý! WOODA sẽ kiểm tra và hỗ trợ đổi sản phẩm phù hợp hơn. Bạn cần tư vấn chăm cây không?"
+        },
+        {
+            "text": "Dụng cụ làm đồ chơi handmade không sắc bén",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ hỗ trợ đổi dụng cụ chất lượng hơn. Bạn cần hướng dẫn sử dụng không?"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ tập trung làm việc không thoải mái",
+            "response": "WOODA rất tiếc vì trải nghiệm này! Bạn có muốn mình hỗ trợ đổi mẫu thoải mái hơn không? Xin lỗi bạn!"
+        },
+        {
+            "text": "Phụ kiện thời trang mùa đông không đủ ấm",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ hỗ trợ đổi mẫu ấm áp hơn. Bạn có muốn mình gợi ý sản phẩm không?"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học ngoại ngữ không cập nhật",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ cải thiện nội dung và hỗ trợ đổi mẫu mới hơn. Bạn cần tư vấn không?"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn cho bé không tiện lợi",
+            "response": "WOODA xin lỗi vì sự bất tiện! Bạn có muốn mình hỗ trợ đổi mẫu tiện lợi hơn cho bé không? Xin lỗi bạn!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc môi không mềm mượt",
+            "response": "Cảm ơn bạn đã chia sẻ! WOODA sẽ kiểm tra và hỗ trợ đổi sản phẩm hiệu quả hơn. Bạn cần tư vấn thêm không?"
+        },
+        {
+            "text": "Phụ kiện đi mưa không chống thấm tốt",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ hỗ trợ đổi sản phẩm chống thấm tốt hơn. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học vẽ không phù hợp người mới",
+            "response": "WOODA rất tiếc vì sự bất tiện! Bạn có muốn mình hỗ trợ đổi mẫu thân thiện hơn với người mới không?"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn nhanh không an toàn",
+            "response": "WOODA xin lỗi và sẽ kiểm tra ngay! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm an toàn hơn nhé!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc da dầu không kiểm soát dầu tốt",
+            "response": "Xin lỗi bạn vì chưa đáp ứng mong đợi! WOODA sẽ hỗ trợ đổi sản phẩm phù hợp hơn. Bạn cần tư vấn thêm không?"
+        },
+        {
+            "text": "Phụ kiện thời trang trẻ em không bền",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ hỗ trợ đổi sản phẩm chất lượng hơn cho bé. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học STEM không hấp dẫn",
+            "response": "WOODA xin lỗi vì trải nghiệm này! Bạn có muốn mình hỗ trợ đổi mẫu thú vị hơn cho bé không? Xin lỗi bạn!"
+        },
+        {
+            "text": "Dụng cụ làm đồ uống không đúng kích thước",
+            "response": "Xin lỗi bạn vì sự nhầm lẫn! WOODA sẽ hỗ trợ đổi đúng kích thước. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc sức khỏe tinh thần không rõ hướng dẫn",
+            "response": "Cảm ơn bạn đã góp ý! WOODA sẽ gửi hướng dẫn chi tiết hơn. Bạn có muốn mình hỗ trợ qua video không?"
+        },
+        {
+            "text": "Phụ kiện cắm trại không chịu được gió",
+            "response": "WOODA xin lỗi vì sự bất tiện! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm bền hơn ngay nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học nhạc không đúng giai điệu",
+            "response": "Xin lỗi bạn vì sự cố này! WOODA sẽ hỗ trợ đổi sản phẩm đúng giai điệu. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Dụng cụ làm đồ thủ công không an toàn",
+            "response": "WOODA rất tiếc và sẽ kiểm tra ngay! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm an toàn hơn!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ thiền định không tạo cảm giác thư giãn",
+            "response": "Cảm ơn bạn đã chia sẻ! WOODA sẽ kiểm tra và hỗ trợ đổi sản phẩm phù hợp hơn. Bạn cần tư vấn thêm không?"
+        },
+        {
+            "text": "Phụ kiện chụp ảnh không bền",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ hỗ trợ đổi sản phẩm chất lượng hơn. Bạn vui lòng gửi ảnh để xử lý nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ tập yoga không chống trượt",
+            "response": "WOODA rất tiếc vì sự cố này! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm an toàn hơn ngay nhé!"
+        },
+        {
+            "text": "Dụng cụ làm đồ ăn sáng không đúng chất liệu",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ hỗ trợ đổi sản phẩm đúng chất liệu. Bạn vui lòng gửi chi tiết nhé!"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ học trực tuyến không tương thích thiết bị",
+            "response": "Xin lỗi bạn vì sự bất tiện! WOODA sẽ kiểm tra và hỗ trợ đổi sản phẩm phù hợp. Bạn vui lòng gửi thông tin thiết bị nhé!"
+        },
+        {
+            "text": "Phụ kiện đi phượt không chịu nhiệt tốt",
+            "response": "WOODA xin lỗi vì sự bất tiện! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm bền hơn ngay nhé!"
+        },
+        {
+            "text": "Sản phẩm chăm sóc sức khỏe không đúng kích cỡ",
+            "response": "Cảm ơn bạn đã báo! WOODA sẽ hỗ trợ đổi đúng kích cỡ. Bạn vui lòng xác nhận kích cỡ mong muốn nhé!"
+        },
+        {
+            "text": "Dụng cụ làm đồ uống detox không an toàn",
+            "response": "WOODA rất tiếc và sẽ kiểm tra ngay! Bạn vui lòng gửi chi tiết để mình hỗ trợ đổi sản phẩm an toàn hơn nhé!"
         }
     ],
     "NEU": [
         {
-            "text": "Xin chào bạn !",
-            "response": "Xin chào bạn! chúng tôi có thể giúp gì cho bạn không?"
+            "text": "Sản phẩm giải trí này phù hợp với độ tuổi nào?",
+            "response": "WOODA xin thông tin: Sản phẩm giải trí phù hợp cho trẻ từ 6 tuổi trở lên. Bạn cần tư vấn thêm về độ tuổi không ạ?"
         },
         {
-            "text": "Cho mình hỏi thời gian giao hàng",
-            "response": "WOODA xin phép thông tin: giao hàng tiêu chuẩn từ 2-4 ngày, tùy khu vực ạ."
+            "text": "Dụng cụ vẽ có đi kèm màu không?",
+            "response": "Dạ, WOODA xin xác nhận: Dụng cụ vẽ đi kèm bộ màu cơ bản. Bạn muốn mình gửi chi tiết về bộ màu không ạ?"
         },
         {
-            "text": "Sản phẩm có bảo hành không",
-            "response": "WOODA xin thông tin: sản phẩm được bảo hành 1 đổi 1 trong 7 ngày nếu lỗi từ nhà sản xuất."
+            "text": "Phụ kiện làm việc từ xa có tương thích với MacBook không?",
+            "response": "WOODA xin thông tin: Phụ kiện tương thích với MacBook và các thiết bị khác. Bạn cần kiểm tra model cụ thể không ạ?"
         },
         {
-            "text": "Chính sách đổi trả thế nào",
-            "response": "WOODA hỗ trợ đổi trả miễn phí trong 7 ngày nếu sản phẩm lỗi hoặc không đúng mô tả bạn nhé."
+            "text": "Sản phẩm thiền định này dùng như thế nào?",
+            "response": "Dạ, WOODA sẽ gửi hướng dẫn sử dụng chi tiết. Bạn có muốn mình tư vấn thêm về cách thiền hiệu quả không ạ?"
         },
         {
-            "text": "Có thể thanh toán khi nhận hàng không",
-            "response": "Dạ có ạ! WOODA hỗ trợ thanh toán COD khi nhận hàng trên toàn quốc."
+            "text": "Đồ chơi cho thú cưng có kích thước bao nhiêu?",
+            "response": "WOODA xin thông tin: Đồ chơi có kích thước phù hợp cho chó mèo nhỏ và vừa. Bạn cần mình gửi thông số chi tiết không ạ?"
         },
         {
-            "text": "Mình muốn đặt hàng thì làm sao",
-            "response": "Bạn chỉ cần nhắn mình sản phẩm cần mua, WOODA sẽ hướng dẫn bạn xác nhận đơn hàng nhanh chóng nhé."
+            "text": "Sản phẩm cho trẻ sơ sinh có an toàn không?",
+            "response": "WOODA xin xác nhận: Sản phẩm được làm từ chất liệu an toàn, không BPA. Bạn cần chi tiết về chứng nhận không ạ?"
+        },
+        {
+            "text": "Đồ trang trí sự kiện có chịu được ngoài trời không?",
+            "response": "Dạ, WOODA xin thông tin: Đồ trang trí có khả năng chịu thời tiết nhẹ. Bạn cần tư vấn thêm về sử dụng ngoài trời không ạ?"
+        },
+        {
+            "text": "Sản phẩm học STEM này phù hợp với trình độ nào?",
+            "response": "WOODA xin thông tin: Sản phẩm phù hợp cho trẻ từ 8-12 tuổi, trình độ cơ bản. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Phụ kiện cắm trại có chống nước không?",
+            "response": "WOODA xin xác nhận: Phụ kiện có khả năng chống nước IPX4. Bạn cần thông tin chi tiết về mức độ chống nước không ạ?"
+        },
+        {
+            "text": "Sản phẩm công nghệ cao này cần cài đặt phần mềm gì?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm cần cài app miễn phí trên iOS/Android. Bạn muốn mình gửi link tải không ạ?"
+        },
+        {
+            "text": "Đồ chơi giải trí này có cần pin không?",
+            "response": "WOODA xin thông tin: Đồ chơi sử dụng pin AAA, không đi kèm. Bạn cần mình tư vấn loại pin phù hợp không ạ?"
+        },
+        {
+            "text": "Dụng cụ làm thủ công có an toàn cho trẻ em không?",
+            "response": "Dạ, WOODA xin xác nhận: Dụng cụ được thiết kế an toàn cho trẻ từ 5 tuổi. Bạn cần chi tiết về cách sử dụng không ạ?"
+        },
+        {
+            "text": "Tai nghe làm việc từ xa có hỗ trợ mic không?",
+            "response": "WOODA xin thông tin: Tai nghe có mic tích hợp chất lượng cao. Bạn cần tư vấn thêm về tính năng không ạ?"
+        },
+        {
+            "text": "Sản phẩm giảm stress này dùng bao lâu thì hiệu quả?",
+            "response": "Dạ, WOODA xin thông tin: Hiệu quả tùy thuộc vào tần suất sử dụng, thường thấy sau 1-2 tuần. Bạn cần hướng dẫn không ạ?"
+        },
+        {
+            "text": "Phụ kiện cho thú cưng có phù hợp với chó lớn không?",
+            "response": "WOODA xin xác nhận: Phụ kiện phù hợp cho chó từ 5-20kg. Bạn cần mình kiểm tra kích thước cụ thể không ạ?"
+        },
+        {
+            "text": "Sản phẩm cho mẹ bầu có dễ vệ sinh không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm dễ vệ sinh bằng nước ấm. Bạn cần hướng dẫn vệ sinh chi tiết không ạ?"
+        },
+        {
+            "text": "Đồ trang trí tiệc có thể tái sử dụng không?",
+            "response": "WOODA xin xác nhận: Đồ trang trí có thể tái sử dụng nhiều lần. Bạn cần tư vấn cách bảo quản không ạ?"
+        },
+        {
+            "text": "Sản phẩm học lập trình này có hỗ trợ ngôn ngữ nào?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm hỗ trợ Python và Scratch. Bạn cần tư vấn thêm về ngôn ngữ lập trình không ạ?"
+        },
+        {
+            "text": "Phụ kiện đi phượt có chịu được nhiệt độ cao không?",
+            "response": "WOODA xin thông tin: Phụ kiện chịu được nhiệt độ lên đến 40°C. Bạn cần chi tiết về độ bền không ạ?"
+        },
+        {
+            "text": "Thiết bị thông minh này có kết nối Wi-Fi không?",
+            "response": "Dạ, WOODA xin xác nhận: Thiết bị hỗ trợ kết nối Wi-Fi 2.4GHz. Bạn cần hướng dẫn kết nối không ạ?"
+        },
+        {
+            "text": "Trò chơi giải trí này có hướng dẫn bằng tiếng Việt không?",
+            "response": "WOODA xin thông tin: Trò chơi đi kèm hướng dẫn tiếng Việt. Bạn cần mình gửi bản mềm không ạ?"
+        },
+        {
+            "text": "Dụng cụ vẽ này dùng được trên loại giấy nào?",
+            "response": "Dạ, WOODA xin thông tin: Dụng cụ phù hợp với giấy A4 và giấy mỹ thuật. Bạn cần tư vấn loại giấy không ạ?"
+        },
+        {
+            "text": "Bàn phím làm việc từ xa có đèn nền không?",
+            "response": "WOODA xin xác nhận: Bàn phím có đèn nền RGB. Bạn cần tư vấn thêm về cách điều chỉnh không ạ?"
+        },
+        {
+            "text": "Sản phẩm hỗ trợ thiền này có âm thanh đi kèm không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm có âm thanh thư giãn tích hợp. Bạn cần hướng dẫn sử dụng không ạ?"
+        },
+        {
+            "text": "Đồ chơi cho mèo có phù hợp với mèo con không?",
+            "response": "WOODA xin xác nhận: Đồ chơi an toàn cho mèo con từ 3 tháng tuổi. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Sản phẩm cho trẻ sơ sinh có kích thước thế nào?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm có kích thước nhỏ gọn, phù hợp cho bé. Bạn cần thông số chi tiết không ạ?"
+        },
+        {
+            "text": "Đồ trang trí sự kiện có dễ lắp đặt không?",
+            "response": "WOODA xin thông tin: Đồ trang trí dễ lắp đặt, đi kèm hướng dẫn. Bạn cần video hướng dẫn lắp không ạ?"
+        },
+        {
+            "text": "Sản phẩm học ngoại ngữ này có hỗ trợ tiếng Nhật không?",
+            "response": "Dạ, WOODA xin xác nhận: Sản phẩm hỗ trợ tiếng Nhật và nhiều ngôn ngữ khác. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Phụ kiện đi biển có chống cát không?",
+            "response": "WOODA xin thông tin: Phụ kiện có thiết kế chống cát hiệu quả. Bạn cần tư vấn thêm về cách sử dụng không ạ?"
+        },
+        {
+            "text": "Sản phẩm công nghệ này có cần cập nhật phần mềm không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm cần cập nhật định kỳ qua app. Bạn cần hướng dẫn cập nhật không ạ?"
+        },
+        {
+            "text": "Sản phẩm giải trí này có chơi được theo nhóm không?",
+            "response": "WOODA xin xác nhận: Sản phẩm phù hợp cho nhóm 2-4 người. Bạn cần tư vấn cách chơi không ạ?"
+        },
+        {
+            "text": "Dụng cụ làm thủ công này có cần dụng cụ bổ sung không?",
+            "response": "Dạ, WOODA xin thông tin: Dụng cụ đầy đủ, không cần bổ sung. Bạn cần chi tiết về bộ sản phẩm không ạ?"
+        },
+        {
+            "text": "Phụ kiện làm việc từ xa có hỗ trợ kết nối Bluetooth không?",
+            "response": "WOODA xin xác nhận: Phụ kiện hỗ trợ Bluetooth 5.0. Bạn cần hướng dẫn kết nối không ạ?"
+        },
+        {
+            "text": "Sản phẩm giảm stress này có phù hợp với người lớn tuổi không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm dễ dùng, phù hợp cho mọi lứa tuổi. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Đồ chơi cho chó có phát ra âm thanh không?",
+            "response": "WOODA xin xác nhận: Đồ chơi có âm thanh vui nhộn. Bạn cần chi tiết về mức âm thanh không ạ?"
+        },
+        {
+            "text": "Sản phẩm cho mẹ bầu có hỗ trợ tư thế nằm không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm hỗ trợ tư thế nằm thoải mái. Bạn cần tư vấn cách sử dụng không ạ?"
+        },
+        {
+            "text": "Đồ trang trí tiệc có thể tùy chỉnh không?",
+            "response": "WOODA xin xác nhận: Đồ trang trí hỗ trợ tùy chỉnh theo yêu cầu. Bạn muốn thiết kế theo ý tưởng nào ạ?"
+        },
+        {
+            "text": "Sản phẩm học STEM này có cần kết nối internet không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm hoạt động offline, nhưng có tính năng online. Bạn cần hướng dẫn không ạ?"
+        },
+        {
+            "text": "Phụ kiện cắm trại có dễ mang theo không?",
+            "response": "WOODA xin xác nhận: Phụ kiện nhỏ gọn, dễ mang theo. Bạn cần thông số trọng lượng không ạ?"
+        },
+        {
+            "text": "Thiết bị thông minh này có hỗ trợ điều khiển bằng giọng nói không?",
+            "response": "Dạ, WOODA xin thông tin: Thiết bị hỗ trợ điều khiển bằng giọng nói. Bạn cần hướng dẫn cài đặt không ạ?"
+        },
+        {
+            "text": "Trò chơi giải trí này có cần không gian lớn không?",
+            "response": "WOODA xin thông tin: Trò chơi phù hợp với không gian nhỏ. Bạn cần tư vấn thêm về cách chơi không ạ?"
+        },
+        {
+            "text": "Dụng cụ vẽ này có phù hợp với người mới học không?",
+            "response": "Dạ, WOODA xin xác nhận: Dụng cụ thân thiện với người mới. Bạn cần hướng dẫn cơ bản không ạ?"
+        },
+        {
+            "text": "Tai nghe làm việc từ xa có thời lượng pin bao lâu?",
+            "response": "WOODA xin thông tin: Tai nghe có pin dùng liên tục 8 giờ. Bạn cần tư vấn thêm về sạc không ạ?"
+        },
+        {
+            "text": "Sản phẩm thiền định này có cần không gian yên tĩnh không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm hoạt động tốt ở mọi không gian. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Phụ kiện cho thú cưng có dễ vệ sinh không?",
+            "response": "WOODA xin xác nhận: Phụ kiện dễ vệ sinh bằng nước. Bạn cần hướng dẫn vệ sinh chi tiết không ạ?"
+        },
+        {
+            "text": "Sản phẩm cho trẻ sơ sinh có thể dùng trong bao lâu?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm phù hợp cho bé từ 0-12 tháng. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Đồ trang trí sự kiện có cần dụng cụ lắp ráp không?",
+            "response": "WOODA xin thông tin: Đồ trang trí không cần dụng cụ bổ sung. Bạn cần hướng dẫn lắp ráp không ạ?"
+        },
+        {
+            "text": "Sản phẩm học ngoại ngữ này có hỗ trợ phát âm không?",
+            "response": "Dạ, WOODA xin xác nhận: Sản phẩm có tính năng luyện phát âm. Bạn cần tư vấn cách sử dụng không ạ?"
+        },
+        {
+            "text": "Phụ kiện đi phượt có phù hợp với thời tiết mưa không?",
+            "response": "WOODA xin thông tin: Phụ kiện có khả năng chống mưa nhẹ. Bạn cần chi tiết về độ bền không ạ?"
+        },
+        {
+            "text": "Sản phẩm công nghệ cao này có cần sạc thường xuyên không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm có pin dùng 1 tuần/lần sạc. Bạn cần hướng dẫn sạc không ạ?"
+        },
+        {
+            "text": "Sản phẩm giải trí này có hỗ trợ chơi online không?",
+            "response": "WOODA xin xác nhận: Sản phẩm hỗ trợ chế độ chơi online. Bạn cần hướng dẫn kết nối không ạ?"
+        },
+        {
+            "text": "Dụng cụ làm thủ công này có phù hợp với người lớn không?",
+            "response": "Dạ, WOODA xin thông tin: Dụng cụ phù hợp cho cả trẻ em và người lớn. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Bàn phím làm việc từ xa có hỗ trợ đa thiết bị không?",
+            "response": "WOODA xin xác nhận: Bàn phím kết nối được 3 thiết bị cùng lúc. Bạn cần hướng dẫn sử dụng không ạ?"
+        },
+        {
+            "text": "Sản phẩm giảm stress này có cần bảo trì không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm không cần bảo trì thường xuyên. Bạn cần hướng dẫn vệ sinh không ạ?"
+        },
+        {
+            "text": "Đồ chơi cho chó có phù hợp với chó năng động không?",
+            "response": "WOODA xin xác nhận: Đồ chơi lý tưởng cho chó năng động. Bạn cần tư vấn thêm về cách chơi không ạ?"
+        },
+        {
+            "text": "Sản phẩm cho mẹ bầu có hỗ trợ sau sinh không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm hỗ trợ cả trong và sau thai kỳ. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Đồ trang trí tiệc có phù hợp với không gian nhỏ không?",
+            "response": "WOODA xin xác nhận: Đồ trang trí nhỏ gọn, phù hợp không gian nhỏ. Bạn cần thông số không ạ?"
+        },
+        {
+            "text": "Sản phẩm học STEM này có hướng dẫn bằng tiếng Anh không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm có hướng dẫn tiếng Anh và tiếng Việt. Bạn cần bản mềm không ạ?"
+        },
+        {
+            "text": "Phụ kiện đi biển có dễ mang theo không?",
+            "response": "WOODA xin xác nhận: Phụ kiện nhẹ, dễ mang theo. Bạn cần thông số trọng lượng không ạ?"
+        },
+        {
+            "text": "Thiết bị thông minh này có hỗ trợ Alexa không?",
+            "response": "Dạ, WOODA xin thông tin: Thiết bị tương thích với Alexa và Google Home. Bạn cần hướng dẫn cài đặt không ạ?"
+        },
+        {
+            "text": "Trò chơi giải trí này có cần kết nối internet không?",
+            "response": "Dạ, WOODA xin thông tin: Trò chơi hoạt động offline, có chế độ online. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Dụng cụ vẽ này có cần bảo quản đặc biệt không?",
+            "response": "Dạ, WOODA xin hướng dẫn: Bạn nên bảo quản nơi khô ráo. Cần chi tiết hơn, mình sẽ gửi thêm ạ!"
+        },
+        {
+            "text": "Tai nghe làm việc từ xa có chống ồn không?",
+            "response": "WOODA xin xác nhận: Tai nghe có tính năng chống ồn chủ động. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Sản phẩm thiền định này có phù hợp với người mới không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm thân thiện với người mới bắt đầu. Bạn cần hướng dẫn không ạ?"
+        },
+        {
+            "text": "Phụ kiện cho mèo có phù hợp với mèo lớn không?",
+            "response": "WOODA xin xác nhận: Phụ kiện phù hợp cho mèo từ 3-8kg. Bạn cần kiểm tra kích thước không ạ?"
+        },
+        {
+            "text": "Sản phẩm cho trẻ sơ sinh có cần lắp ráp không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm không cần lắp ráp, sẵn sàng sử dụng. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Đồ trang trí sự kiện có hỗ trợ giao nhanh không?",
+            "response": "Dạ, WOODA hỗ trợ giao nhanh cho đồ trang trí. Bạn cho mình địa chỉ để kiểm tra thời gian nhé!"
+        },
+        {
+            "text": "Sản phẩm học lập trình này có cần máy tính không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm cần máy tính hoặc tablet. Bạn cần tư vấn cấu hình không ạ?"
+        },
+        {
+            "text": "Phụ kiện cắm trại có chịu được gió mạnh không?",
+            "response": "WOODA xin thông tin: Phụ kiện chịu gió cấp 5. Bạn cần chi tiết về độ bền không ạ?"
+        },
+        {
+            "text": "Sản phẩm công nghệ cao này có cần bảo trì không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm cần vệ sinh định kỳ. Bạn cần hướng dẫn bảo trì không ạ?"
+        },
+        {
+            "text": "Sản phẩm giải trí này có phù hợp với gia đình không?",
+            "response": "WOODA xin xác nhận: Sản phẩm lý tưởng cho gia đình, mọi lứa tuổi. Bạn cần tư vấn cách chơi không ạ?"
+        },
+        {
+            "text": "Dụng cụ làm thủ công này có phù hợp với dự án lớn không?",
+            "response": "Dạ, WOODA xin thông tin: Dụng cụ phù hợp cho cả dự án nhỏ và lớn. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Bàn phím làm việc từ xa có hỗ trợ phím tắt không?",
+            "response": "WOODA xin xác nhận: Bàn phím có phím tắt tùy chỉnh. Bạn cần hướng dẫn cài đặt không ạ?"
+        },
+        {
+            "text": "Sản phẩm giảm stress này có cần không gian riêng không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm dùng được ở mọi nơi. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Đồ chơi cho thú cưng có cần thay thế phụ kiện không?",
+            "response": "Dạ, WOODA xin thông tin: Đồ chơi không cần thay phụ kiện thường xuyên. Bạn cần tư vấn bảo quản không ạ?"
+        },
+        {
+            "text": "Sản phẩm cho mẹ bầu có hỗ trợ tư thế ngồi không?",
+            "response": "Dạ, WOODA xin xác nhận: Sản phẩm hỗ trợ tư thế ngồi thoải mái. Bạn cần tư vấn sử dụng không ạ?"
+        },
+        {
+            "text": "Đồ trang trí tiệc có thể dùng cho nhiều dịp không?",
+            "response": "WOODA xin thông tin: Đồ trang trí linh hoạt cho nhiều sự kiện. Bạn cần tư vấn cách sử dụng không ạ?"
+        },
+        {
+            "text": "Sản phẩm học ngoại ngữ này có hỗ trợ trẻ em không?",
+            "response": "Dạ, WOODA xin xác nhận: Sản phẩm phù hợp cho trẻ từ 4 tuổi. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Phụ kiện đi phượt có cần bảo quản đặc biệt không?",
+            "response": "Dạ, WOODA xin hướng dẫn: Bạn nên lau khô sau khi dùng. Cần chi tiết hơn, mình sẽ gửi thêm ạ!"
+        },
+        {
+            "text": "Thiết bị thông minh này có hỗ trợ ứng dụng bên thứ ba không?",
+            "response": "Dạ, WOODA xin thông tin: Thiết bị tương thích với một số ứng dụng. Bạn cần danh sách ứng dụng không ạ?"
+        },
+        {
+            "text": "Trò chơi giải trí này có cần dụng cụ bổ sung không?",
+            "response": "Dạ, WOODA xin thông tin: Trò chơi đầy đủ, không cần bổ sung. Bạn cần tư vấn cách chơi không ạ?"
+        },
+        {
+            "text": "Dụng cụ vẽ này có phù hợp với tranh màu nước không?",
+            "response": "Dạ, WOODA xin xác nhận: Dụng cụ lý tưởng cho tranh màu nước. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Tai nghe làm việc từ xa có hỗ trợ sạc nhanh không?",
+            "response": "WOODA xin thông tin: Tai nghe hỗ trợ sạc nhanh trong 1 giờ. Bạn cần hướng dẫn sạc không ạ?"
+        },
+        {
+            "text": "Sản phẩm thiền định này có cần kết nối app không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm hoạt động độc lập, có app tùy chọn. Bạn cần hướng dẫn không ạ?"
+        },
+        {
+            "text": "Phụ kiện cho thú cưng có phù hợp với môi trường ngoài trời không?",
+            "response": "WOODA xin xác nhận: Phụ kiện bền bỉ cho ngoài trời. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Sản phẩm cho trẻ sơ sinh có hỗ trợ giấc ngủ không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm giúp bé ngủ ngon hơn. Bạn cần tư vấn cách sử dụng không ạ?"
+        },
+        {
+            "text": "Đồ trang trí sự kiện có phù hợp với tiệc trẻ em không?",
+            "response": "WOODA xin xác nhận: Đồ trang trí rất phù hợp cho tiệc trẻ em. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Sản phẩm học STEM này có cần giáo viên hướng dẫn không?",
+            "response": "Dạ, WOODA xin thông tin: Sản phẩm tự học, có hướng dẫn chi tiết. Bạn cần tư vấn thêm không ạ?"
+        },
+        {
+            "text": "Phụ kiện đi biển có cần vệ sinh đặc biệt không?",
+            "response": "Dạ, WOODA xin hướng dẫn: Bạn nên rửa bằng nước sạch sau khi dùng. Cần chi tiết hơn, mình sẽ gửi thêm ạ!"
+        },
+        {
+            "text": "Thiết bị thông minh này có hỗ trợ bảo hành bao lâu?",
+            "response": "Dạ, WOODA xin thông tin: Thiết bị được bảo hành 12 tháng. Bạn cần chi tiết chính sách không ạ?"
         }
     ]
 }

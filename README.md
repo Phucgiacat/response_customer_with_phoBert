@@ -3,8 +3,11 @@
 ---
 ### Thành viên nhóm:
 - 22120270 - Bùi Hồng Phúc.
-- 
-- 
+- 22120288 - Đỗ Thị Kim Phượng
+- 22120296 - Lê Văn Quang
+---
+### Giáo viên hướng dẫn thực hành
+- Lê Long Quốc
 ---
 ### ý tưởng cụ thể:
 1. Xây dựng model dựa trên data của bản thân dùng để phân loại cảm xúc (sử dụng PhoBert) -> Tích Cực, Tiêu cực, Trung tính.

@@ -3,157 +3,131 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>AI Study Chat</title>
+  <title>Wooda</title>
+
   <!-- Google Font -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+
   <style>
-    /* ===== THEME VARIABLES ===== */
+    /* =======  PALETTE  ======= */
     :root{
-      --bg:      #f5f6fa;
-      --surface: #ffffff;
-      --accent1: #5e9bff;
-      --accent2: #0074ff;
-      --text:    #202124;
-      --text-alt:#555;
-      --bot:     #e7e9f1;
-      --radius:  18px;
-      --shadow:  0 4px 10px rgba(0,0,0,.08);
-    }
-    body.dark{
-      --bg:      #18191c;
-      --surface: #242526;
-      --accent1: #009dff;
-      --accent2: #0074ff;
-      --text:    #e4e6eb;
-      --text-alt:#b0b3b8;
-      --bot:     #3a3b3c;
-      --shadow:  0 4px 10px rgba(0,0,0,.45);
+      --bg-page:#f4eee6;     /* nền tổng thể gỗ nhạt */
+      --card:#e7d7c2;        /* khung chat */
+      --surface:#f3e8d9;     /* bong bóng bot + input bar */
+      --accent:#c58a42;      /* nút gửi & điểm nhấn */
+      --text:#222222;        /* màu chữ chính */
+      --text-soft:#555555;   /* placeholder, chữ phụ */
+      --user:#c9a87c;        /* bong bóng người dùng */
+      --border:#8d8d8d;      /* border nhẹ */
+      --radius:18px;
     }
 
-    /* ===== RESET & GLOBAL ===== */
+    /* =======  RESET  ======= */
     *,*::before,*::after{box-sizing:border-box}
-    body{
-      margin:0;font-family:"Inter",system-ui,sans-serif;
-      background:var(--bg);color:var(--text);
-      height:100vh;display:flex;flex-direction:column;
-    }
+    body{margin:0;font-family:"Inter",system-ui,sans-serif;background:var(--bg-page);color:var(--text);height:100vh;display:flex;flex-direction:column;}
+    svg{display:inline-block;vertical-align:middle}
 
-    /* ===== HEADER ===== */
-    header{
-      height:58px;background:var(--surface);box-shadow:var(--shadow);
-      display:flex;align-items:center;justify-content:space-between;
-      padding:0 1rem;z-index:1;
-    }
-    header h1{font-size:18px;font-weight:600;display:flex;align-items:center;gap:.4rem;}
-    header h1 svg{width:22px;height:22px;fill:var(--accent2)}
-    .toggle{cursor:pointer;width:38px;height:22px;border-radius:22px;background:var(--bot);position:relative;transition:all .3s;}
-    .toggle::after{content:"";position:absolute;top:3px;left:3px;width:16px;height:16px;border-radius:50%;background:var(--accent2);transition:inherit;}
-    body.dark .toggle::after{left:19px}
+    /* =======  HEADER  ======= */
+    header{height:56px;background:var(--card);display:flex;align-items:center;justify-content:space-between;padding:0 1rem;border-bottom:1px solid var(--border);} 
+    header h1{font-size:18px;font-weight:600;margin:0;display:flex;align-items:center;gap:.5rem;}
+    header h1 .dot{width:10px;height:10px;border-radius:50%;background:var(--accent);}    
 
-    /* ===== CHAT AREA ===== */
-    #chat-box{flex:1;padding:1.1rem .9rem;overflow-y:auto;display:flex;flex-direction:column;gap:.55rem;scroll-behavior:smooth;}
-    .msg{max-width:78%;padding:.65rem .95rem;border-radius:var(--radius);line-height:1.45;font-size:15px;box-shadow:var(--shadow);display:inline-block;animation:fadeIn .25s ease-out;}
-    .user{align-self:flex-end;background:linear-gradient(135deg,var(--accent1),var(--accent2));color:#fff;border-bottom-right-radius:4px;}
-    .bot{align-self:flex-start;background:var(--bot);color:var(--text);border-bottom-left-radius:4px;}
+    /* =======  MAIN WRAPPER  ======= */
+    .wrapper{flex:1;display:flex;align-items:center;justify-content:center;padding:1rem;}
+    .chat-card{width:420px;height:620px;background:var(--card);border-radius:var(--radius);display:flex;flex-direction:column;box-shadow:0 4px 12px rgba(0,0,0,.25);overflow:hidden;}
+
+    /* =======  CHAT BOX  ======= */
+    #chat-box{flex:1;overflow-y:auto;padding:1.2rem .9rem;display:flex;flex-direction:column;gap:.6rem;scroll-behavior:smooth;}
+    .msg{position:relative;max-width:80%;padding:.7rem 1rem;border-radius:var(--radius);font-size:14.8px;line-height:1.45;display:inline-block;animation:fade .25s ease-out;color:var(--text);}  
+    .bot {align-self:flex-start;background:var(--surface);}  
+    .user{align-self:flex-end;background:var(--user);}      
     .typing{opacity:.7;font-style:italic;animation:blink 1.2s linear infinite;}
-    .emotion{display:block;font-size:11px;opacity:.55;margin-top:2px;}
-    @keyframes blink{50%{opacity:.15}}
-    @keyframes fadeIn{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+    .time{display:block;font-size:11px;opacity:.55;margin-top:2px;}
+    @keyframes blink{50%{opacity:.25}}
+    @keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
 
-    /* ===== INPUT BAR ===== */
-    form{display:flex;gap:.65rem;padding:.8rem 1rem;background:var(--surface);box-shadow:var(--shadow);}
-    form input{flex:1;padding:.6rem .9rem;border:1px solid rgba(0,0,0,.12);border-radius:var(--radius);background:var(--bg);color:var(--text);font-size:15px;}
-    form input:focus{outline:2px solid var(--accent2);}
-    form button{padding:.6rem 1.3rem;border:none;border-radius:var(--radius);background:var(--accent2);color:#fff;font-weight:500;cursor:pointer;transition:opacity .2s,transform .2s;}
-    form button:disabled{opacity:.5;cursor:default}
-    form button:hover:not(:disabled){transform:scale(.98)}
+    /* --- Tooltip for bot messages --- */
+    .bot[data-tip]:hover::after{
+      content:attr(data-tip);
+      position:absolute;left:0;top:calc(100% + 6px); /* hiển thị bên dưới bong bóng */
+      background:var(--surface);color:var(--text);
+      padding:6px 10px;border-radius:6px;font-size:12px;white-space:nowrap;
+      box-shadow:0 2px 6px rgba(0,0,0,.18);
+      z-index:10;
+    }
 
-    /* custom scrollbar */
+    /* =======  INPUT BAR  ======= */
+    form{display:flex;gap:.6rem;padding:.8rem .9rem;border-top:1px solid var(--border);background:var(--surface);}    
+    form input{flex:1;padding:.55rem .9rem;border:none;border-radius:var(--radius);background:#fff;color:var(--text);font-size:14px;}
+    form input::placeholder{color:var(--text-soft);}   
+    form input:focus{outline:2px solid var(--accent);}  
+    form button{width:46px;height:46px;border:none;border-radius:50%;background:var(--accent);display:grid;place-items:center;cursor:pointer;transition:background .2s ease;}
+    form button:hover{background:#d29b4d;}
+    form button svg{width:20px;height:20px;fill:#fff;}
+    form button:disabled{opacity:.55;cursor:default;background:var(--accent);}    
+
+    /* Scrollbar */
     #chat-box::-webkit-scrollbar{width:6px}
-    #chat-box::-webkit-scrollbar-thumb{background:rgba(0,0,0,.25);border-radius:3px}
+    #chat-box::-webkit-scrollbar-thumb{background:#999;border-radius:3px}
   </style>
 </head>
+
 <body>
-  <!-- ===== HEADER ===== -->
-  <header>
-    <h1>
-      <!-- simple chat icon -->
-      <svg viewBox="0 0 24 24"><path d="M12 3C6.48 3 2 6.58 2 11c0 2.24 1.12 4.27 2.93 5.79-.2.73-.76 2.57-.87 2.95-.14.55.16.55.34.5.14-.04 3.05-.99 4.29-1.46A13.2 13.2 0 0 0 12 18c5.52 0 10-3.58 10-8s-4.48-8-10-8z"/></svg>
-      AI Study Chat
-    </h1>
-    <div id="themeToggle" class="toggle" title="Đổi chế độ sáng/tối"></div>
-  </header>
+  <!-- Header -->
+  <header><h1><span class="dot"></span> Wooda Company</h1></header>
 
-  <!-- ===== CHAT AREA ===== -->
-  <main id="chat-box"></main>
-
-  <!-- ===== INPUT BAR ===== -->
-  <form id="chat-form" autocomplete="off">
-    <input id="chat-input" type="text" placeholder="Nhập tin nhắn…" />
-    <button id="send-btn" type="submit">Gửi</button>
-  </form>
+  <!-- Main wrapper & card -->
+  <div class="wrapper">
+    <section class="chat-card">
+      <main id="chat-box"></main>
+      <!-- Input bar -->
+      <form id="chat-form" autocomplete="off">
+        <input id="chat-input" type="text" placeholder="Tin nhắn Wooda" />
+        <button id="send-btn" type="submit" title="Gửi"><svg viewBox="0 0 24 24"><path d="M2.01 21 23 12 2.01 3v7l15 2-15 2z"/></svg></button>
+      </form>
+    </section>
+  </div>
 
 <script>
-const API_URL = 'http://localhost:8001/chat'; // đổi nếu không dùng proxy
+const API_URL='http://localhost:8001/chat';
+const $box=document.getElementById('chat-box');
+const $form=document.getElementById('chat-form');
+const $input=document.getElementById('chat-input');
+const $btn=document.getElementById('send-btn');
 
-const $box  = document.getElementById('chat-box');
-const $form = document.getElementById('chat-form');
-const $input= document.getElementById('chat-input');
-const $btn  = document.getElementById('send-btn');
+function now(){const d=new Date();return d.toLocaleTimeString('vi-VN',{hour:'2-digit',minute:'2-digit'})+' '+d.toLocaleDateString('vi-VN');}
 
-function addMsg(text, cls, emotion){
+function addMsg(text,cls){
   const div=document.createElement('div');
   div.className='msg '+cls;
-  div.textContent=text;
-  if(emotion){
-    const badge=document.createElement('span');
-    badge.textContent='['+emotion+']';
-    badge.className='emotion';
-    div.appendChild(badge);
-  }
+  if(cls.startsWith('bot')) div.dataset.tip='nhận diện cảm xúc văn bản Tiếng Việt với PhoBer';
+  div.innerHTML=`${text}<span class="time">${now()}</span>`;
   $box.appendChild(div);
   $box.scrollTop=$box.scrollHeight;
   return div;
 }
 
 async function sendMessage(text){
-  const typingDiv=addMsg('Đang nhập…','bot typing');
+  const typing=addMsg('Đang nhập…','bot typing');
   $btn.disabled=true;
   try{
     const res=await fetch(API_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({text})});
     if(!res.ok) throw new Error(await res.text());
     const data=await res.json();
-    console.log('Emotion:',data.emotion);
-    typingDiv.textContent=data.reply;
-    typingDiv.classList.remove('typing');
-    typingDiv.appendChild(Object.assign(document.createElement('span'),{textContent:'['+data.emotion+']',className:'emotion'}));
+    typing.classList.remove('typing');
+    typing.innerHTML=`${data.reply}<span class="time">${now()}</span>`;
   }catch(err){
-    typingDiv.textContent='⚠️ Lỗi kết nối!';
-    typingDiv.classList.remove('typing');
+    typing.classList.remove('typing');
+    typing.innerHTML=`⚠️ Lỗi kết nối!<span class="time">${now()}</span>`;
     console.error(err);
   }finally{$btn.disabled=false;}
 }
 
-$form.addEventListener('submit',e=>{e.preventDefault();const text=$input.value.trim();if(!text)return;addMsg(text,'user');$input.value='';$input.focus();sendMessage(text);});
-
+$form.addEventListener('submit',e=>{e.preventDefault();const text=$input.value.trim();if(!text) return;addMsg(text,'user');$input.value='';sendMessage(text);});
 $input.addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();$form.dispatchEvent(new Event('submit'));}});
-
-// ===== FIRST GREETING =====
-window.addEventListener('DOMContentLoaded',()=>{
-  // restore dark mode preference
-  const saved=localStorage.getItem('theme');
-  if(saved==='dark') document.body.classList.add('dark');
-  // greeting
-  addMsg('Xin chào! Mình là trợ lý AI của bạn. Hãy đặt câu hỏi bất kỳ nhé!','bot');
-});
-
-// ===== DARK/LIGHT TOGGLE =====
-const toggle=document.getElementById('themeToggle');
-function setTheme(dark){document.body.classList.toggle('dark',dark);localStorage.setItem('theme',dark?'dark':'light');}
-
-toggle.addEventListener('click',()=>setTheme(!document.body.classList.contains('dark')));
+window.addEventListener('DOMContentLoaded',()=>{addMsg('Công ty Wooda xin chào quý khách!','bot');});
 </script>
 </body>
 </html>

@@ -20,6 +20,7 @@ from pydantic import BaseModel
 from transformers import pipeline
 from sentence_transformers import SentenceTransformer, util
 import torch
+import underthesea
 
 # ------------------------------------------------------------------
 # 1.  NẠP TÀI NGUYÊN & TIỆN ÍCH
@@ -79,6 +80,9 @@ class PreProcess:
     @staticmethod
     def remove_extra_whitespace(text: str) -> str:
         return " ".join(text.split())
+    
+    def VN_tokenize(self, text):
+        return underthesea.word_tokenize(text, format="text")
 
     def remove_repeated_characters(self, text: str) -> str:
         return self._dup_char.sub(r"\1\1", text)
@@ -95,6 +99,7 @@ class PreProcess:
         return " ".join(tokens)
 
     def __call__(self, text: str) -> str:
+        text = self.VN_tokenize(text)
         text = self.text_lower(text)
         text = self.emoji_pattern.sub(" ", text)
         text = self.remove_punctuation(text)

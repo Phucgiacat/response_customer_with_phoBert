@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="hcmus-logo.png" alt="Logo" width="200"/>
+</p>
+
 # Học Thống Kê - Phúc, Quang, Phượng
 ### Đề Tài: Text Classification. - Xây dựng chatbox Hỗ trợ khách hàng.
 ---
